@@ -1,0 +1,3 @@
+[submodule "weird"]
+	path = weird
+	url = https://github.com/saradhix/weird.git
